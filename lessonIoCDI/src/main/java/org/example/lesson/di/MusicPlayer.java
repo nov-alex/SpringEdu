@@ -10,7 +10,7 @@ public class MusicPlayer {
     private List<Music> musicList;
 
     public void playMusic() {
-        musicList.forEach(music -> music.playMusic());
+        musicList.forEach(Music::playMusic);
     }
 
 }
