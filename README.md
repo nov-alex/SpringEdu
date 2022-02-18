@@ -12,3 +12,9 @@
 
 **SpringMVCCode**
 Практика Spring MVC с использованием java-code. Работает с Tomcat 9 + Smart Tomcat.
+
+**SpringMVCapp**
+Практика Spring MVC с использованием java-code. 
+Работает с Tomcat 9 + Smart Tomcat.
+CRUD + REST
+Postgresql + JDBCTemplate
